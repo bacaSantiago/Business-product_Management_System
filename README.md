@@ -1,4 +1,4 @@
-# README.txt - C++ Bussiness and Product Management System
+# C++ Bussiness and Product Management System
 
 This is a C++ program that allows you to manage a database of businesses and their associated products. The program is designed to handle up to 5 businesses, and each business can have up to 5 products. The main functionalities of the program include creating and editing businesses and products, checking available space in the database for businesses and products, and displaying products within a certain price range.
 
